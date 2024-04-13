@@ -15,10 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="1、SeqList.cpp">
+    <ClCompile Include="1.1 顺序表.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="2、LinkList.cpp">
+    <ClCompile Include="1.2 单链表.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="LinkList2.cpp">
@@ -30,25 +30,76 @@
     <ClCompile Include="LinkList3.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="3、DuLinkList.cpp">
+    <ClCompile Include="1.3 双向链表.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="application.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="4、SqStack.cpp">
+    <ClCompile Include="2.1 顺序栈.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="5、LinkStack.cpp">
+    <ClCompile Include="2.2 链栈.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="6、SqQueue.cpp">
+    <ClCompile Include="3.1 顺序队列.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="7、SString.cpp">
+    <ClCompile Include="4.1 顺序串.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="8、LString.cpp">
+    <ClCompile Include="4.2 链串.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="5.1 数组.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1.4 静态链表.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="6.1 顺序二叉树.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="6.2 二叉链表.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="6.3 三叉链表.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="6.5 树.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="3.2 链队列.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="6.6 哈夫曼树（最优二叉树）.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7.1 邻接矩阵（无向+有向图、网）.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7.2 邻接表.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7.3 十字链表.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7.4 邻接多重表.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="6.4 线索二叉树.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7.5 图的应用.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="8.1 查找.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
